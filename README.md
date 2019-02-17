@@ -1,4 +1,4 @@
-# Dynamic-Insight-API
+# bitcore-lib-DYN
 
 License
 (The MIT License)
