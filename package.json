@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-lib-DYN",
+  "name": "bitcore-lib-dyn",
   "version": "0.13.20",
   "description": "A pure and powerful JavaScript BitCore library.",
   "author": "TheTrunk <tessjonesie@gmail.com>",
@@ -70,6 +70,10 @@
     {
       "name": "wkibbler",
       "email": "william.kibbler@protonmail.com"
+    },
+    {
+      "name": "syyyn",
+      "email": "syn@synister.dev"
     }
   ],
   "keywords": [
@@ -90,7 +94,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/duality-solutions/bitcore-lib-DYN.git"
+    "url": "https://github.com/syyyn/bitcore-lib-dyn.git"
   },
   "browser": {
     "request": "browser-request"
@@ -102,10 +106,10 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
-    "multi-hashing": "git://github.com/wkibbler/node-argon2d.git#master"
+    "node-hash-argon2d": "^1.0.0"
   },
   "devDependencies": {
-    "bitcore-build-DYN": "git://github.com/duality-solutions/bitcore-build-DYN#master",
+    "bitcore-build-dyn": "git://github.com/syyyn/bitcore-build-dyn#master",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
